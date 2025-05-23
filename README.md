@@ -1,3 +1,3 @@
 # I'm Mahmoud 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mahmoud-Lotfi=anuraghazra)](https://github.com/Mahmoud-Lotfi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Lotfi)](https://github.com/Mahmoud-Lotfi/github-readme-stats)
